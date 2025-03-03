@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasukeuchiha14&label=Profile%20views&color=0e75b6&style=flat" alt="sasukeuchiha14" /> </p>
 
-- 🌱 I'm currently learning **DSA, Automata, etc...**
+- 🌱 I'm currently learning **Next.js, Operating System, Networking, etc...**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/sasukeuchiha14/Projects).
 
