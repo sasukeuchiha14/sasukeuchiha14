@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Next.js, Operating System, Networking, etc...**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/sasukeuchiha14/Projects).
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/sasukeuchiha14?tab=repositories).
 
 - 🌐 Visit my website: [hardikgarg.me](https://hardikgarg.me)
 
