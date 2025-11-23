@@ -1,10 +1,12 @@
 ![logo](https://github.com/sasukeuchiha14/sasukeuchiha14/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Hardik Garg</h1>
-<h3 align="center">I am a Full Stack Web Developer and Software Engineer based in India.</h3>
+<h3 align="center">I am a Full Stack Web Developer and APIsec Certified Practitioner based in India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasukeuchiha14&label=Profile%20views&color=0e75b6&style=flat" alt="sasukeuchiha14" /> </p>
 
-- 🌱 I'm currently learning **Next.js \& Cybersecurity Stuff**
+- 🛡️ **Certifications:** APIsec Certified Practitioner (APIsec University)
+
+- 🌱 I'm currently learning **Cybersecurity Stuff**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/sasukeuchiha14?tab=repositories).
 
