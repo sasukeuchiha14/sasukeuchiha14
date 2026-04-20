@@ -24,16 +24,24 @@ Welcome to my piece of the internet! I'm a Computer Science engineering student 
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasukeuchiha14&show_icons=true&theme=tokyonight&hide_border=true&icon_color=0e75b6&title_color=0e75b6" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasukeuchiha14&theme=tokyonight&hide_border=true&stroke=0e75b6&ring=0e75b6" alt="GitHub Streak" />
-</p>
+<div align="center" style="line-height: 0;">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-spacing: 0; margin: 0 auto;">
+    <tr>
+      <td valign="middle" style="padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sasukeuchiha14&show_icons=true&theme=tokyonight&hide_border=true&icon_color=0e75b6&title_color=0e75b6" alt="GitHub Stats" height="180" style="display: block;" />
+      </td>
+      <td valign="middle" style="padding: 0;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasukeuchiha14&theme=tokyonight&hide_border=true&stroke=0e75b6&ring=0e75b6" alt="GitHub Streak" height="180" style="display: block;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mongodb,python,c,solidity,tailwind,linux,raspberrypi,git,postman&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,vuejs,nodejs,express,mongodb,mysql,python,c,java,solidity,git,github,docker,linux,raspberrypi,kali,postman&theme=dark" alt="My Skills" />
   </a>
 </p>
 
