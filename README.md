@@ -49,5 +49,5 @@ Welcome to my piece of the internet! I'm a Computer Science engineering student 
 
 <div align="center">
   <i>"Transforming innovative ideas into impactful solutions through code!"</i><br><br>
-  <a href="mailto:hgarg7123+github@gmail.com">📬 hgarg7123@gmail.com</a>
+  <a href="mailto:contact+github@hardikgarg.me">📬 contact@hardikgarg.me</a>
 </div>
