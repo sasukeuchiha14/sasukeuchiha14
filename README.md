@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hardik%20Garg&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" alt="Hardik Garg Banner" width="100%" />
 
   <h1>Hi 👋, I'm Hardik Garg</h1>
-  <p><b>3rd-Year CSE Student | Full Stack Web Developer | Cybersecurity & CTF Enthusiast</b></p>
+  <p><b>Final Year CSE Student | Full Stack Web Developer | Application Security Engineer | CTF Enthusiast</b></p>
   
   <p>
     <a href="https://hardikgarg.me"><img src="https://img.shields.io/badge/Portfolio-hardikgarg.me-0e75b6?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
